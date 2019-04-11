@@ -1,0 +1,266 @@
+{
+    "hello":{
+        "hi":["hello","hi","morning","hey","hey there"]
+    },
+    "hwd":{
+        "hwd":["how are you ?", "how are you doing?"]
+    },
+    "tk":{
+        "tk1":["fine and you ?","good and you?","great and you ?","wonderfull and you ?"],
+        "tk2":["fine thank you", "good thank you", "great thank you"]
+    },
+    "qt":{
+        "qt1":{
+            "afi":{
+                    "insuring car": {
+                                        "i need to insure my car":["ok i'll ask you some questions to fill some required informations                               about you and your car."],
+                                        "i want to insure my car":["ok i'll ask you some questions to fill some required informations                               about you and your car."]
+                                    },
+                    "insuring truck": {
+                                        "i need to insure my truck":["ok i'll ask you some questions to fill some required                                           informations about you and your truck."],
+                                        "i want to insure my truck":["ok i'll ask you some questions to fill some required                                           informations about you and your truck."]
+                    },
+                    "insuring motorcycle": {
+                                         "i need to insure my motorcycle":["ok i'll ask you some questions to fill some required                                      informations about you and your motorcycle."],
+                                         "i want to insure my motorcycle":["ok i'll ask you some questions to fill some required                                      informations about you and your motorcycle."]
+                    }
+
+            },
+            "aai":{
+                "asking about insurance":{
+                     "i need to ask you something": ["ok, what do you need?",
+                                                "ah, go ahead.",
+                                                "go ahead.",
+                                                "ok, i'm listening",
+                                                "What's your question?",
+                                                "What do you need to know?",
+                                                "What are you wondering about?",
+                                                "You can ask whatever you want.",
+                                                "ok, ask me whatever you want.",
+                                                "go ahead sir, i'm listening."],
+                     "i want to ask you something": ["ok, what do you need?",
+                                                "ah, go ahead.",
+                                                "go ahead.",
+                                                "ok, i'm listening",
+                                                "What's your question?",
+                                                "What do you need to know?",
+                                                "What are you wondering about?",
+                                                "You can ask whatever you want.",
+                                                "ok, ask me whatever you want.",
+                                                "go ahead sir, i'm listening."]
+                },
+                "asking about his insurance":{
+                     "im inquiring about my insurance": ["ok, what do you need?",
+                                                "ah, go ahead.",
+                                                "go ahead.",
+                                                "ok, i'm listening",
+                                                "What's your question?",
+                                                "What do you need to know?",
+                                                "What are you wondering about?",
+                                                "You can ask whatever you want.",
+                                                "ok, ask me whatever you want.",
+                                                "go ahead sir, i'm listening."],
+                    "i have a question about my insurance": ["ok, what do you need?",
+                                                "ah, go ahead.",
+                                                "go ahead.",
+                                                "ok, i'm listening",
+                                                "What's your question?",
+                                                "What do you need to know?",
+                                                "What are you wondering about?",
+                                                "You can ask whatever you want.",
+                                                "ok, ask me whatever you want.",
+                                                "go ahead sir, i'm listening."]
+                    
+                }
+            },
+            "dat":{
+                "checking-out":{
+                    "i need to check-out":[ "why whould you do that sir"],
+                    "i want to check-out":[ "why whould you do that sir"]
+                },
+                "paying fee":{
+                    "i need to pay my insurance fee": ["ok, i need some informations from you"],
+                    "i want to pay my insurance fee": ["ok, i need some informations from you"]
+                }
+            }
+        },
+    "qt2":{
+        "afi":{
+            "car":{
+                "convo1":{
+                    "ok, what is your name": ["david","jon","Sophia","Liam","Noah","Emma"],
+                    "how old are you":["20","24","30","32","41","50","19"],
+                    "What do you do for a living?":["i'm a teacher","currenty not working","i have a shop","i'm a web developer"],
+                    "Are you married?":["yes","no","yes, but sadly she is dead","currently no"],
+                    "ok,How many miles do you drive each day?":["well, the average of 20 miles i guess","i guess 30 miles","100 miles or less"],
+                    "do you own your car outright?":["yes"],
+                    "and, do you use the car for business?": ["no","yes"],
+                    "Is your vehicle equipped with safety and anti-theft devices?":["yes","no"],
+                    "How many cars are you insuring?":["just one","two cars"],
+                    "How many licensed drivers are in your household?":["just me","me and my son","me and my wife"],
+                    "How many violations and tickets are on your record?":["i dont remember well","maybe 12 or 13", "quite a lot"],
+                    "Who is your current insurance company?":["no one you're first","it's *****, but i did check out"],
+                    "what is your car model":["model1","model2","model3","model4"],
+                    "ok the price will be : ******€ for year": ["ok it will be good","ok good"],
+                    "you need to sign some papers":["ok thank you"],
+                    "this is convo1":"this is convo1"
+                },
+                "convo2":{
+                    "ok, what is your name": ["david","jon","Sophia","Liam","Noah","Emma"],
+                    "how old are you":["20","24","30","32","41","50","19"],
+                    "What do you do for a living?":["i'm a teacher","currenty not working","i have a shop","i'm a web developer"],
+                    "Are you married?":["yes","no","yes, but sadly she is dead","currently no"],
+                    "ok,How many miles do you drive each day?":["well, the average of 20 miles i guess","i guess 30 miles","100 miles or less"],
+                    "do you own your car outright?":["yes"],
+                    "and, do you use the car for business?": ["no","yes"],
+                    "Is your vehicle equipped with safety and anti-theft devices?":["yes","no"],
+                    "How many cars are you insuring?":["just one","two cars"],
+                    "How many licensed drivers are in your household?":["just me","me and my son","me and my wife"],
+                    "How many violations and tickets are on your record?":["i dont remember well","maybe 12 or 13", "quite a lot"],
+                    "Who is your current insurance company?":["no one you're first","it's *****, but i did check out"],
+                    "what is your car model":["model1","model2","model3","model4"],
+                    "ok the price will be : ******€ for year": ["ok it will be good","ok good"],
+                    "you need to sign some papers":["ok thank you"],
+                    "this is convo2":"this is convo2"
+                }
+                
+
+            },
+            "motorcycle":{
+                "convo1":{
+                    "ok, what is your name": ["david","jon","Sophia","Liam","Noah","Emma"],
+                    "how old are you":["20","24","30","32","41","50","19"],
+                    "What do you do for a living?":["i'm a teacher","currenty not working","i have a shop","i'm a web developer"],
+                    "Are you married?":["yes","no","yes, but sadly she is dead","currently no"],
+                    "ok,How many miles do you drive each day?":["well, the average of 20 miles i guess","i guess 30 miles","100 miles or less"],
+                    "do you own your motorcycle outright?":["yes"],
+                    "and, do you use the motorcycle for business?": ["no","yes"],
+                    "How many motorcycle are you insuring?":["just one","two motorcycles"],
+                    "How many violations and tickets are on your record?":["i dont remember well","maybe 12 or 13", "quite a lot"],
+                    "Who is your current insurance company?":["no one you're first","it's *****, but i did check out"],
+                    "what is your motorcycle model":["model1","model2","model3","model4"],
+                    "ok the price will be : ******€ for year": ["ok it will be good","ok good"],
+                    "you need to sign some papers":["ok thank you"],
+                    "this is convo1":["this is convo1"]
+                },
+                "convo2":{
+                    "ok, what is your name": ["david","jon","Sophia","Liam","Noah","Emma"],
+                    "how old are you":["20","24","30","32","41","50","19"],
+                    "What do you do for a living?":["i'm a teacher","currenty not working","i have a shop","i'm a web developer"],
+                    "Are you married?":["yes","no","yes, but sadly she is dead","currently no"],
+                    "ok,How many miles do you drive each day?":["well, the average of 20 miles i guess","i guess 30 miles","100 miles or less"],
+                    "do you own your motorcycle outright?":["yes"],
+                    "and, do you use the motorcycle for business?": ["no","yes"],
+                    "How many motorcycle are you insuring?":["just one","two motorcycles"],
+                    "How many violations and tickets are on your record?":["i dont remember well","maybe 12 or 13", "quite a lot"],
+                    "Who is your current insurance company?":["no one you're first","it's *****, but i did check out"],
+                    "what is your motorcycle model":["model1","model2","model3","model4"],
+                    "ok the price will be : ******€ for year": ["ok it will be good","ok good"],
+                    "you need to sign some papers":["ok thank you"],
+                    "this is convo2":["this is convo2"]
+                }
+            },
+            "truck":{
+                "convo1":{
+                    "ok, what is your name": ["david","jon","Sophia","Liam","Noah","Emma"],
+                    "how old are you":["20","24","30","32","41","50","19"],
+                    "What do you do for a living?":["i'm a teacher","currenty not working","i have a shop","i'm a web developer"],
+                    "Are you married?":["yes","no","yes, but sadly she is dead","currently no"],
+                    "ok,How many miles do you drive each day?":["well, the average of 100 miles i guess","i guess 300 miles","400 miles or more"],
+                    "do you own your truck outright?":["yes"],
+                    "and, do you use the truck for business?": ["yes","yes"],
+                    "Is your vehicle equipped with safety and anti-theft devices?":["yes","no"],
+                    "How many trucks are you insuring?":["just one","two trucks"],
+                    "How many licensed drivers are in your household?":["just me","me and my son","me and my wife"],
+                    "How many violations and tickets are on your record?":["i dont remember well","maybe 12 or 13", "quite a lot"],
+                    "Who is your current insurance company?":["no one you're first","it's *****, but i did check out"],
+                    "what is your truck model":["model1","model2","model3","model4"],
+                    "ok the price will be : ******€ for year": ["ok it will be good","ok good"],
+                    "you need to sign some papers":["ok thank you"],
+                    "this is convo1":["this is convo1"]
+                },
+                "convo2":{
+                    "ok, what is your name": ["david","jon","Sophia","Liam","Noah","Emma"],
+                    "how old are you":["20","24","30","32","41","50","19"],
+                    "What do you do for a living?":["i'm a teacher","currenty not working","i have a shop","i'm a web developer"],
+                    "Are you married?":["yes","no","yes, but sadly she is dead","currently no"],
+                    "ok,How many miles do you drive each day?":["well, the average of 100 miles i guess","i guess 300 miles","400 miles or more"],
+                    "do you own your truck outright?":["yes"],
+                    "and, do you use the truck for business?": ["yes","yes"],
+                    "Is your vehicle equipped with safety and anti-theft devices?":["yes","no"],
+                    "How many trucks are you insuring?":["just one","two trucks"],
+                    "How many licensed drivers are in your household?":["just me","me and my son","me and my wife"],
+                    "How many violations and tickets are on your record?":["i dont remember well","maybe 12 or 13", "quite a lot"],
+                    "Who is your current insurance company?":["no one you're first","it's *****, but i did check out"],
+                    "what is your truck model":["model1","model2","model3","model4"],
+                    "ok the price will be : ******€ for year": ["ok it will be good","ok good"],
+                    "you need to sign some papers":["ok thank you"],
+                    "this is convo2":["this is convo2"]
+                } 
+            }
+        },
+        "aai":{
+            "asking about his insurance":{
+                "convo1":{ 
+                    "What factors can affect the cost of my car insurance?":["A number of factors can affect the cost of your car insurance some of which you can control and some that are beyond your control. The type of car you drive, how you use it, your driving record, and where the car is parked can all affect how much your car insurance will cost. Even your marital status can affect your cost of insurance. Statistics show that married couples tend to have fewer and less costly accidents than those who are single."],
+                    "this is convo1":["this is convo1"]
+                },
+                 "convo2":{ 
+                    "What factors can affect the cost of my car insurance?":["A number of factors can affect the cost of your car insurance some of which you can control and some that are beyond your control. The type of car you drive, how you use it, your driving record, and where the car is parked can all affect how much your car insurance will cost. Even your marital status can affect your cost of insurance. Statistics show that married couples tend to have fewer and less costly accidents than those who are single."],
+                    "this is convo1":["this is convo1"]
+                }
+
+            },
+            "asking about insurance":{
+                "convo1":{
+                    "What information will I need when I’m applying for an insurance policy? Why do insurers need so many details?":["just some basic informations about you, such as your name, age, gender, adress, etc, and also some questions which will be used to determine how likely you are to make a claim. for exemple if you want to apply for auto insurance, i'd like to know about your previous driving record, wether you have any recent accidents or tickets, and what type of car you will need to insure. all this informations are used to help me determine a fair price for a policy"],
+                    "What are the advantages of using an independent agent to purchase insurance?":["well, An independent agent can offer you personalized service, which can be extremely helpful when purchasing insurance and absolutely necessary when filing a claim. They can also provide more options than a captive agent because they represent several insurance carriers. An independent agent will help you compared several policies to find the best coverage for you."],
+                    "What is the difference between collision insurance and comprehensive insurance?": ["well, Collision insurance covers damages to your car when your vehicle collides with another car or object. For example, if you hit a car in a parking lot, the damages to your car will be paid under your collision coverage. Comprehensive insurance provides coverage for direct physical damage losses to your car other than collision, including theft. For example, damage to your car from a hailstorm will be covered under your comprehensive coverage."],
+                    "I have an old car. Do I really need to purchase car insurance?": ["Most states require drivers to have at least some car liability insurance. These laws were enacted to ensure that victims of car accidents receive compensation when their losses are caused by the actions of a negligent individual. Often times the cost of repairing damages to an older car is greater than its value. In these cases, your insurer will usually 'total' the car and give you a check for the car’s market value less than the deductible"],
+                    "this is convo1":["this is convo1"]
+                },
+                "convo2":{
+                    "What information will I need when I’m applying for an insurance policy? Why do insurers need so many details?":["just some basic informations about you, such as your name, age, gender, adress, etc, and also some questions which will be used to determine how likely you are to make a claim. for exemple if you want to apply for auto insurance, i'd like to know about your previous driving record, wether you have any recent accidents or tickets, and what type of car you will need to insure. all this informations are used to help me determine a fair price for a policy"],
+                    "What is the difference between collision insurance and comprehensive insurance?": ["well, Collision insurance covers damages to your car when your vehicle collides with another car or object. For example, if you hit a car in a parking lot, the damages to your car will be paid under your collision coverage. Comprehensive insurance provides coverage for direct physical damage losses to your car other than collision, including theft. For example, damage to your car from a hailstorm will be covered under your comprehensive coverage."],
+                    "I have an old car. Do I really need to purchase car insurance?": ["Most states require drivers to have at least some car liability insurance. These laws were enacted to ensure that victims of car accidents receive compensation when their losses are caused by the actions of a negligent individual. Often times the cost of repairing damages to an older car is greater than its value. In these cases, your insurer will usually 'total' the car and give you a check for the car’s market value less than the deductible"],
+                    "this is convo2":["this is convo2"]
+                }
+            }
+        },
+        "dat":{
+            "paying insurance fee":{
+                "convo1":{
+                        "well, what is your name?":["david","jon","Sophia","Liam","Noah","Emma"],
+                        "yes found you, it's *****€ as usual":["ok, here is my credit card","ok that's the price","ok, this is a valid check with that price"],
+                        "please wait for a second":["no problem, take your time"],
+                        "sign here please": ["ok"],
+                        "thank you for your trust sir":["it's my pleasure"],
+                        "this is convo1":["this is convo1"]
+                        },
+                "convo2":{
+                        "well, what is your name?":["david","jon","Sophia","Liam","Noah","Emma"],
+                        "yes found you, it's *****€ as usual":["ok, here is my credit card","ok that's the price","ok, this is a valid check with that price"],
+                        "please wait for a second":["no problem, take your time"],
+                        "sign here please": ["ok"],
+                        "thank you for your trust sir":["it's my pleasure"],
+                        "this is convo2":["this is convo2"]
+                        }
+                
+            },
+            "check out":{
+                "convo1":{
+                        "no data temporarily1":["no data temporarily1","no data temporarily2"],
+                        "no data temporarily2":["no data temporarily1","no data temporarily2"],
+                        "this is convo1":["this is convo1"]
+                },
+                "convo2":{
+                        "no data temporarily1":["no data temporarily1","no data temporarily2"],
+                        "no data temporarily2":["no data temporarily1","no data temporarily2"],
+                        "this is convo2":["this is convo2"]
+                }
+                
+            }
+        }
+    }
+    }
+}

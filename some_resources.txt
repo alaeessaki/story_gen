@@ -1,0 +1,30 @@
+"qt2":{
+            "afi":{
+                "car":{
+
+                },
+                "motorcycle":{
+
+                },
+                "truck":{
+
+                }
+            },
+            "aai":{
+                "asking about his insurance":{
+
+
+                },
+                "asking about insurance":{
+
+                }
+            },
+            "dat":{
+                "paying insurance fee":{
+
+                },
+                "check out":{
+                    
+                }
+            }
+        }
